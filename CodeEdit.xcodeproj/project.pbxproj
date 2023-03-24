@@ -418,6 +418,7 @@
 		0468438427DC76E200F8E88E /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		0485EB1E27E7458B00138301 /* WorkspaceCodeFileView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WorkspaceCodeFileView.swift; sourceTree = "<group>"; };
 		15F9F5E729CD8B1000D720CB /* CodeEdit.sdef */ = {isa = PBXFileReference; lastKnownFileType = text; path = CodeEdit.sdef; sourceTree = "<group>"; };
+		15F9F5EA29CD8C4B00D720CB /* CocoaStandard.sdef */ = {isa = PBXFileReference; lastKnownFileType = text.xml; name = CocoaStandard.sdef; path = ../../../../System/Library/ScriptingDefinitions/CocoaStandard.sdef; sourceTree = "<group>"; };
 		200412EE280F3EAC00BCAF5C /* HistoryInspectorNoHistoryView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HistoryInspectorNoHistoryView.swift; sourceTree = "<group>"; };
 		201169D62837B2E300F92B46 /* SourceControlNavigatorView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SourceControlNavigatorView.swift; sourceTree = "<group>"; };
 		201169D82837B31200F92B46 /* SourceControlSearchToolbar.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SourceControlSearchToolbar.swift; sourceTree = "<group>"; };
@@ -2237,6 +2238,7 @@
 		B658FB2327DA9E0F00EA4DBD = {
 			isa = PBXGroup;
 			children = (
+				15F9F5EA29CD8C4B00D720CB /* CocoaStandard.sdef */,
 				B658FB2E27DA9E0F00EA4DBD /* CodeEdit */,
 				587B60F329340A8000D5CD8F /* CodeEditTests */,
 				28052E0129730F2F00F4F90A /* Configs */,
